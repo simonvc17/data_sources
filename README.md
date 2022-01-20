@@ -1,5 +1,6 @@
 # data_sources
-**Public Data Sources**
+## **Public Data Sources**
+
 
 [Bureau of Economic Analysis](https://www.bea.gov/data)
 
@@ -27,7 +28,7 @@
 
 [USDA Rural-Urban Continuum Codes](https://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx)
 
-**Spatial Data**
+## **Spatial Data**
 
 [Landfire data](https://landfire.gov/)
 
